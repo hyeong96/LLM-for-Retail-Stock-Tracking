@@ -3,12 +3,12 @@ This project builds an application that leverages LLM to query stock information
 
 In order to run this repository, follow the steps below:
 
-1. Clone this repository to local folder.
-2. Run MySQL database using provided database.
+1. Clone this repository to local folder
+2. Run MySQL database using provided database
 3. Open terminal in the repository folder
-4. Type "streamlit run main.py" then press Enter.
-5. The UI below will pop up. 
-6. Enjoy the power of LLM + Langchain
+4. Type "streamlit run main.py" then press Enter
+5. The UI below will pop up
+6. Enjoy the power of LLM + Langchain!
 
 
 
